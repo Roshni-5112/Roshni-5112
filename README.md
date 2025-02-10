@@ -2,6 +2,7 @@
 - 👀 I’m interested in Data Science and Machine Learning.
 - 🌱 I have currently completed Postgraduate program in Data Science and Analytics.
 - 💞️ I’m looking for entry level data analyst and data scientist roles.
+- I am currently working for QLC pvt ltd as a trainee data analyst.
 - 📫 How to reach me: Mail me on roshnij5112@gmail.com.
   
 
